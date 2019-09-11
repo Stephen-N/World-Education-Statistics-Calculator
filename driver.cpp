@@ -4,7 +4,7 @@
 **  Author  :   Stephen Ndubueze
 **  Date:   :   09/11/19
 **  Section :   503
-**  E-mail  :   sundubueze78@tamu.edu
+**  E-mail  :   sundubueze78@gmail.com
 **
 **  This file contains the main driver program for Project0.
 **  Summary: Create ranking of countries with highest literacy
